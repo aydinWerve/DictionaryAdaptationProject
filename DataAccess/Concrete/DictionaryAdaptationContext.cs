@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Data.Entity;
 using System.Text;
-using Entity.Concrete;
+using Entities.Concrete;
 
 namespace DataAccess.Concrete
 {

@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.Text;
 
-namespace Entity.Concrete
+namespace Entities.Concrete
 {
     public class About
     {
